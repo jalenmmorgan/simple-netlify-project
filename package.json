@@ -1,0 +1,26 @@
+{
+  "name": "simple-netlify-project",
+  "version": "1.0.0",
+  "description": "A test netlify project using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalenmmorgan/simple-netlify-project.git"
+  },
+  "author": "Jalen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalenmmorgan/simple-netlify-project/issues"
+  },
+  "homepage": "https://github.com/jalenmmorgan/simple-netlify-project#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
